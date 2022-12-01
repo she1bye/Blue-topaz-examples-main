@@ -1,0 +1,111 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "workspace:close-others",
+      "icon": "lucide-x",
+      "name": "Close all other tabs",
+      "mode": "any"
+    },
+    {
+      "id": "app:delete-file",
+      "icon": "trash",
+      "name": "删除当前选中的文件",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:move-file",
+      "icon": "paper-plane-glyph",
+      "name": "移动到其他文件夹",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "navigate-glyph",
+      "name": "显示当前文件",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [
+    {
+      "id": "workspace:split-vertical",
+      "icon": "vertical-split",
+      "name": "左右拆分",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:undo-close-pane",
+      "icon": "undo-glyph",
+      "name": "重新打开上一个关闭的面板",
+      "mode": "desktop"
+    },
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-search",
+      "name": "Omnisearch: Vault search",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:cd0405e7-6489-4e6a-beb1-07dac8f9a188",
+      "icon": "music",
+      "name": "play music",
+      "mode": "any"
+    }
+  ],
+  "statusBar": [
+    {
+      "id": "quickadd:choice:fe31fa1a-99c5-4b58-9001-1cac23a2b9b5",
+      "icon": "home",
+      "name": "QuickAdd: 打开主页",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:79944a6f-1f8e-409d-b4e7-98674eb1b607",
+      "icon": "switch-camera",
+      "name": "切换视图",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:27d06043-87de-47b1-a058-cf6ff596b9c1",
+      "icon": "refresh-ccw",
+      "name": "QuickAdd: 刷新面板",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "various-complements"
+    ],
+    "leftRibbon": [
+      "Memos",
+      "Open Markdown Table Editor",
+      "Open today's daily note",
+      "打开 Markdown 格式转换器",
+      "打开快速切换",
+      "Omnisearch",
+      "Open homepage",
+      "插入模板"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "folderNoteHide": true,
+  "folderNoteType": "inside",
+  "folderNoteName": "_about_",
+  "folderNoteKey": "ctrl",
+  "folderNoteAutoRename": true,
+  "folderDelete2Note": false,
+  "folderNoteStrInit": "---\ncssclass: kanban gridlist noyaml\ntag: moc\nobsidianUIMode: preview\n---\n`button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh`\n%% moc %%\n"
+}

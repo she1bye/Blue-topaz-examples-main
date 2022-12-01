@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "43182c5d5e85cced",
+    "type": "split",
+    "children": [
+      {
+        "id": "f995aa6847448694",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e4b47c6dcd2f5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63d675219e0c7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec42f438962b76bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ca526de0e81e109",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 147.99801588058472,
+    "collapsed": true
+  },
+  "right": {
+    "id": "25ceb227fe7738dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "be62ecfb4a83b9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99acac058399b815",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 153,
+    "collapsed": true
+  },
+  "active": "f995aa6847448694",
+  "lastOpenFiles": [
+    "2022-08-11.md",
+    "memos模板.md",
+    "2022-08-10.md",
+    "日记统计.md",
+    "2022-04-20.md",
+    "2021-12-30.md"
+  ]
+}

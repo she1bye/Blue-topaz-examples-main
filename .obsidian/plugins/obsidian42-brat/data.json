@@ -1,0 +1,27 @@
+{
+  "pluginList": [
+    "Quorafind/Obsidian-Daily-Notes-Editor",
+    "mvdkwast/obsidian-copy-as-html",
+    "zhouhua/obsidian-export-image",
+    "Trikzon/obsidian-web-browser/",
+    "marcusolsson/obsidian-projects",
+    "Quorafind/Obsidian-Virtual-Hotkey-Keyboard",
+    "Stardusten/ob-table-enhancer",
+    "nothingislost/obsidian-query-control",
+    "cumany/obsidian-echarts",
+    "zhaohongxuan/obsidian-weread-plugin",
+    "scambier/obsidian-omnisearch",
+    "obsidian-canzi/Enhanced-editing/",
+    "nothingislost/obsidian-bartender"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": false,
+  "loggingEnabled": false,
+  "loggingPath": "",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": false
+}

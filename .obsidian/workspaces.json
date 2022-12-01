@@ -1,0 +1,730 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "e8b4ea94b39a8520",
+        "type": "split",
+        "children": [
+          {
+            "id": "80430a4f104c0c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88-Template/home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "687357708cbc920f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bc1edcafd063cfb",
+            "type": "tabs",
+            "dimension": 68.13048933500627,
+            "children": [
+              {
+                "id": "37c8f55a8ef7a09c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b3290ae399933a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3d21402f76dc34c3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2c2f4dfc8473d58",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d877e8285f98a38a",
+            "type": "tabs",
+            "dimension": 31.869510664993726,
+            "children": [
+              {
+                "id": "b37bc3d287f74512",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ee52b332527fc75",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "4e390742ffc29613",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4c25b22f0c7d5f0",
+            "type": "tabs",
+            "dimension": 36.340852130325814,
+            "children": [
+              {
+                "id": "ca4e910af4602420",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "340969ccd24905e8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "88-Template/home.md"
+                  }
+                }
+              },
+              {
+                "id": "83061aceea29f566",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "88-Template/彩色时钟.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "0b3485207df574dd",
+            "type": "tabs",
+            "dimension": 63.65914786967418,
+            "children": [
+              {
+                "id": "041c78328387b373",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "88-Template/home.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dc4a81bfd6624166",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "88-Template/home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b2ae90cb6049dbe9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8851ccb0aa4e524a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "88-Template/常用工具.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265
+      },
+      "active": "80430a4f104c0c57"
+    },
+    "kanban": {
+      "main": {
+        "id": "e8b4ea94b39a8520",
+        "type": "split",
+        "children": [
+          {
+            "id": "528a5dbf77ea4243",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "20-Diary/任务看板.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "687357708cbc920f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bc1edcafd063cfb",
+            "type": "tabs",
+            "dimension": 61.33828996282528,
+            "children": [
+              {
+                "id": "37c8f55a8ef7a09c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b3290ae399933a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3d21402f76dc34c3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e1b59eaac11b55b3",
+            "type": "tabs",
+            "dimension": 38.66171003717472,
+            "children": [
+              {
+                "id": "796ade3906f5d64a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "4e390742ffc29613",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4c25b22f0c7d5f0",
+            "type": "tabs",
+            "dimension": 63.88542963885429,
+            "children": [
+              {
+                "id": "ca4e910af4602420",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8851ccb0aa4e524a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "88-Template/常用工具.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "340969ccd24905e8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "20-Diary/任务看板.md"
+                  }
+                }
+              },
+              {
+                "id": "86f7939b217614a2",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0b3485207df574dd",
+            "type": "tabs",
+            "dimension": 36.1145703611457,
+            "children": [
+              {
+                "id": "041c78328387b373",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "20-Diary/任务看板.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dc4a81bfd6624166",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "20-Diary/任务看板.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9b181782551fdb19",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b2ae90cb6049dbe9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 273
+      },
+      "active": "528a5dbf77ea4243"
+    },
+    "temp": {
+      "main": {
+        "id": "e8b4ea94b39a8520",
+        "type": "split",
+        "children": [
+          {
+            "id": "89ee761a4e6a0cc8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5b44a858d2f3fe8",
+                "type": "leaf",
+                "state": {
+                  "type": "style-settings",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "687357708cbc920f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bc1edcafd063cfb",
+            "type": "tabs",
+            "dimension": 59.390243902439025,
+            "children": [
+              {
+                "id": "37c8f55a8ef7a09c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b3290ae399933a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3d21402f76dc34c3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "d877e8285f98a38a",
+            "type": "tabs",
+            "dimension": 40.609756097560975,
+            "children": [
+              {
+                "id": "b37bc3d287f74512",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "340969ccd24905e8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "4e390742ffc29613",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4c25b22f0c7d5f0",
+            "type": "tabs",
+            "dimension": 47.3170731707317,
+            "children": [
+              {
+                "id": "ca4e910af4602420",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "83061aceea29f566",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "88-Template/彩色时钟.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0b3485207df574dd",
+            "type": "tabs",
+            "dimension": 52.6829268292683,
+            "children": [
+              {
+                "id": "041c78328387b373",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dc4a81bfd6624166",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b2ae90cb6049dbe9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "cec580fe14c81046",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "cec580fe14c81046"
+    },
+    "Simple": {
+      "main": {
+        "id": "e8b4ea94b39a8520",
+        "type": "split",
+        "children": [
+          {
+            "id": "5e81ee842a136b28",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc371ae36bc5eac7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Tips/🥑Blue Topaz Themes Tips.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "687357708cbc920f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bc1edcafd063cfb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37c8f55a8ef7a09c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b3290ae399933a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3d21402f76dc34c3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fca5b26d7aef0c07",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255
+      },
+      "right": {
+        "id": "4e390742ffc29613",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4c25b22f0c7d5f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca4e910af4602420",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "340969ccd24905e8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00-Tips/🥑Blue Topaz Themes Tips.md"
+                  }
+                }
+              },
+              {
+                "id": "b2ae90cb6049dbe9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "340969ccd24905e8"
+    }
+  },
+  "active": "Home"
+}
